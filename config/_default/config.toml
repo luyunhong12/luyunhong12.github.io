@@ -1,18 +1,23 @@
-# Change baseurl before deploy
-baseurl = "https://starter.stack.cai.im/"
-locale  = "en-us"
-title   = "Hugo Theme Stack Starter"
+# YunForge Lab 网站基础配置
 
-# Theme i18n support
-# See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "en"
+# GitHub Pages 网站地址
+baseurl = "https://luyunhong12.github.io/"
 
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage = false
+# 网站语言区域
+locale = "zh-cn"
 
-# Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+# 网站名称
+title = "YunForge Lab"
 
+# 默认内容语言
+defaultContentLanguage = "zh-cn"
+
+# 开启中文、日文、韩文的正确摘要和字数统计
+hasCJKLanguage = true
+
+# 暂时关闭 Disqus 评论
+disqusShortname = ""
+
+# 首页每页显示5篇文章
 [pagination]
     pagerSize = 5
