@@ -10,7 +10,7 @@ locale = "zh-cn"
 title = "YunForge Lab"
 
 # 默认内容语言
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh"
 
 # 开启中文、日文、韩文的正确摘要和字数统计
 hasCJKLanguage = true
