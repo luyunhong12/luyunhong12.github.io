@@ -11,7 +11,7 @@ SortBy              = "default"
 
 [footer]
     since      = 2020
-    customText = ""
+    customText = "潜心钻研，持续锻造。"
 
 [dateFormat]
     published   = ":date_full"
@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "记录技术探索与生活思考的个人空间"
     avatar   = "img/avatar.png"
 
 [article]
@@ -29,7 +29,7 @@ SortBy              = "default"
 
     [article.license]
         enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        default = "本文采用 CC BY-NC-SA 4.0 许可协议授权"
 
 [widgets]
     homepage = [
