@@ -4,7 +4,7 @@
 baseurl = "https://luyunhong12.github.io/"
 
 # 网站语言区域
-locale = "zh-cn"
+locale = "zh"
 
 # 网站名称
 title = "YunForge Lab"
